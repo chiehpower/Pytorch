@@ -1,3 +1,0 @@
-Use this to install pytorch.
-
-pip3 install --user torch torchvision   
