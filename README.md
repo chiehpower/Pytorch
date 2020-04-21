@@ -18,4 +18,6 @@ If you can manipulate both deep learning frameworks, you will not be restricted 
 - Practice_from_book
   - My practice sources from:
     [Programming PyTorch for Deep Learning](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/)
+- Functions_study
+  - There are few functions that I wanna try and study its property.
 
