@@ -21,3 +21,12 @@ If you can manipulate both deep learning frameworks, you will not be restricted 
 - Functions_study
   - There are few functions that I wanna try and study its property.
 
+# Functions study
+  - numpy_ops:
+    - `np.tile`
+    - `np.clip`
+  - torch_ops:
+    - `Torch.topk`
+    - `Torch.cat`
+    - `LocalResponseNorm`
+    - `Torch.from_numpy`
