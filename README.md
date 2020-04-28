@@ -11,6 +11,9 @@ So why not to learn it?
 
 If you can manipulate both deep learning frameworks, you will not be restricted in one of frameworks.
 
+## Installation
+You can follow my [installing steps](https://github.com/chiehpower/Installation/tree/master/Pytorch), but it is not for normal users.
+
 ## Folder List
 
 - Practice_from_Website
